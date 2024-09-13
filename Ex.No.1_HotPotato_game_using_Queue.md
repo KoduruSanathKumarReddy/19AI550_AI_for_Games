@@ -1,6 +1,7 @@
 # Ex.No: 1  Implementation of HotPotato game using Queue 
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212221240024   
+### NAME: Koduru Sanath Kumar Reddy
 ### AIM: 
 To write a python program to simulate the process of passing an item among players and eliminating players based on the given rules until a single winner is determined.
 ### Algorithm:
