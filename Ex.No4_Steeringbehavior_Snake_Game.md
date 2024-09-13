@@ -97,8 +97,9 @@ pygame.quit()
 
 
 ### Output:
-![Uploading image.png…]()
 
+
+<img width="912" alt="image" src="https://github.com/user-attachments/assets/aaa0862a-9048-4a08-8cf3-c5e59d69c274">
 
 
 ### Result:
