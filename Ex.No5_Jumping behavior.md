@@ -1,6 +1,7 @@
 # Ex.No: 5  Implementation of Jumping behavior 
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212221240024
+### NAME: Koduru Sanath Kumar Reddy
 ### AIM: 
 To write a python program to simulate Jumbing behavior. 
 ### Algorithm:
