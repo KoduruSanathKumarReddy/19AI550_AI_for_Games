@@ -1,7 +1,7 @@
 # Ex.No: 2 Implementation of Stack Plate game using Queue 
 
 ### DATE:                                                             
-### REGISTER NUMBER : 212221240002
+### REGISTER NUMBER : 2122212400024
 ### AIM: 
 To write a python program to simulate the process of stacking plates.
 ### Algorithm:
