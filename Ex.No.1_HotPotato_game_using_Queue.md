@@ -1,9 +1,9 @@
 # Ex.No: 1  Implementation of HotPotato game using Queue 
 
 
-#### DATE: 09/08/2024         
+### DATE:          
 
-#### REGISTER NUMBER : 212221240002
+### REGISTER NUMBER : 212221240002
 
 ### NAME: Koduru Sanath Kumar Reddy
 
